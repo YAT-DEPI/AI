@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/College/External%20Courses/DEPI%20Final%20Project/customer_feedback_sentiment/mlruns/328554413223693322/aaf452363ad74e579af96d9dfc3aef16/artifacts
+deleted_time: 1729363336787
+end_time: 1729360120972
+entry_point_name: ''
+experiment_id: '328554413223693322'
+lifecycle_stage: deleted
+run_id: aaf452363ad74e579af96d9dfc3aef16
+run_name: run 2
+run_uuid: aaf452363ad74e579af96d9dfc3aef16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729359946587
+status: 4
+tags: []
+user_id: fares

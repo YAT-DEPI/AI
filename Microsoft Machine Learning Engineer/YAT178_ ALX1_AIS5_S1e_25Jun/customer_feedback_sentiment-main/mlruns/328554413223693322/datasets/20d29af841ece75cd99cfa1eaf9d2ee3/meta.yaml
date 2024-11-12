@@ -1,0 +1,10 @@
+digest: 7a53e466
+name: dataset
+profile: '{"features_shape": [16092, 17334], "features_size": 278938728, "features_nbytes":
+  2231509824}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 17334]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "fares", "mlflow.source.name": "d:/College/External
+  Courses/DEPI Final Project/customer_feedback_sentiment/feedback_classification_experiment.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "9b66f85f0cc10aaac29a02d3cde98fa7755140ad"}}'
+source_type: code
